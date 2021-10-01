@@ -23,4 +23,13 @@ Every column of the dataset has been represented by a numerical format.
 <img src=images/Hospital-Ward-image-2.jpg width="875" height="500">
 The first dataset, 1,6M records, contains information about date, time,day of the week, accident severity, location, weather, road type ...
 The second dataset  Vehicles: CSV file, 3M records Contains information about vehicle type, driver age, driver sex ,.... 
-then I Merge the datasets together
+then I Merge the datasets together.
+## Data Cleaning:
+- check for duplicate data.
+-  rename some columns.
+-  handle missing values.
+-  dropping unuseful columns.
+## Data Analysis:
+We ploted some graphs to analysis the data and answered some necessary questions.
+we used timestamp feature to explain more features such as: Year, Month, Day of the week.
+When do accidents usually happen (Month/Day/Hours)?
