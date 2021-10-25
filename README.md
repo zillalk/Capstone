@@ -20,7 +20,7 @@ To start the analysis we will load the data from the UK government website www.d
 which consists of two files the data about (Accidents -Vehicles) from 2005-2015, the data is separated based on timestamp so will concatenate them into one dataset. We will follow that with assessment of any necessary preprocessing, transformation or cleaning.
 So we support a document to All the data variables are coded rather than textual strings.
 Every column of the dataset has been represented by a numerical format.
-<img src="C:/Users/Zilal/Desktop/GA/capstone_GA/Image/day.JPG" width="875" height="500">
+<img src="https://github.com/zillalk/Capstonee/day.png" width="875" height="500">
 The first dataset, 1,6M records, contains information about date, time,day of the week, accident severity, location, weather, road type ...
 The second dataset  Vehicles: CSV file, 3M records Contains information about vehicle type, driver age, driver sex ,.... 
 then I Merge the datasets together.
